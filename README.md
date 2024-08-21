@@ -10,9 +10,9 @@ Name, Marks, ID.
 **Features**
 <br>**Add Student Records**: Input and store student details like name, marks, and ID.
 <br>
-**Delete Student Records**: Remove a student’s record by their unique ID.
+**Delete Student Records**: Remove a student’s record by their unique ID, name.
 <br>
-**Search for a Student**: Retrieve a student’s information by searching via their ID.
+**Search for a Student**: Retrieve a student’s information by searching via their ID, name.
 <br>
 **Display All Records**: View all stored student records, including name, marks, and ID.
 
