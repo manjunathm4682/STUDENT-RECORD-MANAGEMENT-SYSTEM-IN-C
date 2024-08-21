@@ -25,4 +25,4 @@ Deleting Records: Users can delete a record by providing the student's ID, which
 Searching Records: The system allows users to search for a specific student by ID, displaying the student's name and marks if found.
 Displaying Records: Users can view all student records currently stored in the system, with each student's details neatly organized.
 
-<br>**THE OUTPUT OF THIS PROJECT IS AS SHOWN IN output1,output2,output3.**
+<br>**THE OUTPUT OF THIS PROJECT IS SHOWN IN output1,output2,output3.**
