@@ -8,10 +8,12 @@ The Student Record Management System is a C-based application that utilizes fund
 Name, Marks, ID.
 
 **Features**
-**Add Student Records**: Input and store student details like name, marks, and ID.
+<br>**Add Student Records**: Input and store student details like name, marks, and ID.
 <br>
 **Delete Student Records**: Remove a student’s record by their unique ID.
+<br>
 **Search for a Student**: Retrieve a student’s information by searching via their ID.
+<br>
 **Display All Records**: View all stored student records, including name, marks, and ID.
 
 **Data Structures Used**
