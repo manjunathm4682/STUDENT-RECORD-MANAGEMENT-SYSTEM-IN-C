@@ -5,9 +5,7 @@ This project implements a student record management system using C, designed to 
 **Project Overview**
 The Student Record Management System is a C-based application that utilizes fundamental data structures to manage student information. It supports key operations such as adding new records, deleting existing ones, searching for specific student details, and displaying all stored records. The system focuses on managing the following student information:
 
-Name
-Marks
-ID
+Name, Marks, ID.
 
 **Features**
 **Add Student Records**: Input and store student details like name, marks, and ID.
@@ -16,7 +14,7 @@ ID
 **Display All Records**: View all stored student records, including name, marks, and ID.
 
 **Data Structures Used**
-**Singly Linked List**: Used for dynamically managing student records, allowing for efficient insertion and deletion operations.
+(**Singly Linked List**): Used for dynamically managing student records, allowing for efficient insertion and deletion operations.
 
 **How It Works**
 Adding Records: Users can add a new student record to the system, storing the student's name, marks, and ID in a singly linked list.
